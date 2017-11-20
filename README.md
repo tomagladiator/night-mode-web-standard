@@ -1,7 +1,7 @@
 # Night Mode in web, why not a standard yet ?
 Propose a standard for including Night Mode in browsers
 
-Currently, this note is in french, pelase, help me to translate it!
+Currently, this note is in french, please, help me to translate it!
 
 ## Contexte
 Pour nombre d'entre nous, notre quotidien et notre santé est altéré par la puissance lumineuse de certains sites populaires. Une lumière blanche à bleuté trompe notre cerveau pour lui donner l'illusion qu'il fait encore jour et celui-ci tente de rester éveillé ce qui cause des troubles du sommeil et des mals de tête, tout âge confondu.
