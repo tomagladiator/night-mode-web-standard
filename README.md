@@ -1,4 +1,4 @@
-# night-mode-web-standard
+# Night Mode in web, why not a standard yet ?
 Propose a standard for including Night Mode in browsers
 
 Currently, this note is in french, pelase, help me to translate it!
