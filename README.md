@@ -16,4 +16,17 @@ L'utilisation d'une simpte META faisant référence à un CSS devrait être suff
 
 `<link href="/styles/nightmode.css" rel="nightmode">`
 
-1 - Par défaut, le navigateur ne téléchargerait pas ce CSS pour des raisons de performance, mais ferait une vérification si celui-ci ne retourne pas une 404.2 - Par la présence de la META dans la balise HEAD, le navigateur verrait apparaitre dans sa barre de recherche une nouvelle icone3 - Au clic sur celui-ci le CSS serait appliqué et l'icone changerait en mode actif4 - Une option permettrait d'activer automatiquement le mode nuit pour tous les sites le supportant
+1 - Par défaut, le navigateur ne téléchargerait pas ce CSS pour des raisons de performance, mais ferait une vérification si celui-ci ne retourne pas une 404.
+
+2 - Par la présence de la META dans la balise HEAD, le navigateur verrait apparaitre dans sa barre de recherche une nouvelle icone
+
+3 - Au clic sur celui-ci le CSS serait appliqué et l'icone changerait en mode actif
+
+4 - Une option permettrait d'activer automatiquement le mode nuit pour tous les sites le supportant
+
+## Recommandation
+Ne pas utiliser un texte blanc #fff sur fond noir #000, privilégier un fond foncé #252525 et une couleur de texte gris clair de #dadada
+
+Appliquer une transition CSS3 pour le changement de couleur
+
+Éviter de placer des images dont la transparence est simulée par le fonds blanc de l'image sur le fond blanc du site.
